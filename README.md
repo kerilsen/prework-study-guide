@@ -12,7 +12,7 @@ N/A
 
 Use webpage as a study guide by reviewing the notes in each section. For a prompt on what to study next, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open to provide a list of study topics plus a random suggestion on what to study next.
 
-![Prework Study Guide console](assets/images/Screenshot-Prework-study-guide.png)
+![Prework Study Guide console](assets/Screenshot-Prework-study-guide.png)
 
 ## Credits
 
